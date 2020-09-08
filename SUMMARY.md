@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BitCamp - ის სასწავლო რესურსები](README.md)
+* [BitCamp](README.md)
 * [BitCamp - ის პროგრამა](program/README.md)
   * [I ეტაპი](program/i-etapi.md)
   * [II ეტაპი](program/ii-etapi.md)
