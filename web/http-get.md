@@ -34,7 +34,7 @@ Response ტაბი აჩვენებს სერვერის მი�
 
 ![](../.gitbook/assets/6e.png)
 
-შეხვედრების ჯაჭვი
+ამ ბმულის გახსნისას მიღებული [https://studies.cs.helsinki.fi/exampleapp](https://studies.cs.helsinki.fi/exampleapp) რექვესთების და რესფონსების ჯაჭვი ასე გამოიყურება:
 
 ![](../.gitbook/assets/7e.png)
 
