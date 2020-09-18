@@ -14,4 +14,5 @@
   * [Document Object Model - DOM](web/dom.md)
   * [Document Object - ების მანიპულირება კონსოლიდან](web/dom-manipulations-console.md)
   * [CSS](web/css.md)
+  * [ფორმები და HTTP POST](web/forms-and-http-post.md)
 
