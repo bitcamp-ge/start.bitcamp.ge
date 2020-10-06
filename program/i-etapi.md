@@ -6,7 +6,9 @@ description: 2 კვირიანი ჩელენჯი / საცდე�
 
 {% tabs %}
 {% tab title="დასაწყისი" %}
-1. რეგისტრირდები ამ კურსზე: [https://codehs.com/go/B2CEA](https://l.facebook.com/l.php?u=https%3A%2F%2Fcodehs.com%2Fgo%2FB2CEA%3Ffbclid%3DIwAR3lwK07pppyMgekvE5ZNNzTEsJp-r-n4JA6sDd1HRsxEgnKtRvusYR-KoQ&h=AT359i27rPgC2dqafw63LNNGFwSwA7Fpal8lOnrz0UCfro-Lir593dqtQ0_2pRGFeeNJ4xrX8WEu_bDzClQZ72kb_8x42HJPtdkikxzLMjFvphQI1yn9i8oAjRoGfoVAHVueG2XbbuF79Q) \(თუ კლასის კოდი მოგთხოვა: **B2CEA**\);
+1. რეგისტრირდები ამ კურსზე: [https://codehs.com/go/60EE8](https://codehs.com/go/60EE8
+
+) \(თუ კლასის კოდი მოგთხოვა: **60EE8** \);
 
 2. იწყებ კურსს იმის სწავლით თუ როგორ მართო ვირტუალური რობოტი სახელად Karel;
 
