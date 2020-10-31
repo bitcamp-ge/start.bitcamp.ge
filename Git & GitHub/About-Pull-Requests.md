@@ -21,3 +21,22 @@ pull request-ის შექმნის შემდგომ, თქვენ
 ```
 Tips: should be added
 ```
+
+# შაბლონად შენახვა Pull Request-ების
+
+Pull request-ების შაბლონად შენახვა საჯარო რეპოზიტორიებში
+
+როდესაც ქმნით pull request-ს, შეგიძლიათ, რომ შექმნათ ისეთი pull request-ი, რომელიც უკვე მზად არის განსახილველად, ან შეინახოთ შაბლონად. შაბლონური pull request-ებს ვერ დამერჯავთ. დეტალური ინფორმაციისათვის ეწვიეთ: "[Creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)" და "[Creating a pull request from a fork](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)."
+
+როდესაც დარწმუნდებით, რომ თქვენი pull request-ი არის სრულყოფილი და მზად არის განსახილველად, მაშინ შეგიძლიათ შაბლონური pull request მონიშნოთ, როგორც განსახილველად მზად მყოფი. ასევე ნებისმიერ დროს შესაძლებელია მიმდინარე pull request-ის შაბლონად შენახვა. დამატებითი ინფორმაციისათვის ეწვიეთ: "[Changing the stage of a pull request.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/changing-the-stage-of-a-pull-request)."
+
+
+# დამატებითი საკითხავი
+
+*[Pull request](https://docs.github.com/en/free-pro-team@latest/articles/github-glossary/#pull-request)
+*[About branches](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches)
+*[Commenting on a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request)
+*[Merging a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/merging-a-pull-request)
+*[Closing a pull request](https://docs.github.com/en/free-pro-team@latest/articles/closing-a-pull-request)
+*[Deleting unused branches](https://docs.github.com/en/free-pro-team@latest/articles/deleting-unused-branches)
+*[About pull request merges](https://docs.github.com/en/free-pro-team@latest/articles/about-pull-request-merges)
