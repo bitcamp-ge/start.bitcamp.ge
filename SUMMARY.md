@@ -15,6 +15,10 @@
   * [Document Object - ების მანიპულირება კონსოლიდან](web/dom-manipulations-console.md)
   * [CSS](web/css.md)
   * [ფორმები და HTTP POST](web/forms-and-http-post.md)
-* [Git](git.md)
 * [JavaScript](javascript.md)
-
+  * [მიმოხილვა](javascript/javascript-overview.md)
+  * [რიცხვები](javascript/javascript-numbers.md)
+  * [სტრინგები](javascript/javascript-strings.md)
+  * [სხვა ტიპები](javascript/javascript-othertypes.md)
+  * [ცვლადები](javascript/javascript-variables.md)
+* [Git](git.md)
