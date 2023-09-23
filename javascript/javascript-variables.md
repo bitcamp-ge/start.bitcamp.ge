@@ -4,7 +4,7 @@
 
 `let` საშუალებას გვაძლევს შევქმნათ ბლოკის დონის ცვლადი, ანუ მოცემული ცვლადი მხოლოდ იმ ბლოკშია ვალიდური სადაც შეიქმნა.
 
-```text
+```javascript
 // myLetVariable აქ არ არის ხელმისაწვდომი
 
 for (let myLetvariable=0; myLetVariable<10; myLetVariable++){
@@ -16,14 +16,14 @@ for (let myLetvariable=0; myLetVariable<10; myLetVariable++){
 
 `const` ქივორდით ხდება ისეთო ცვლადების შექმნა, რომლებიც არ უნდა შეიცვალოს:
 
-```text
+```javascript
 const Pi = 3.14 
 Pi = 1; // ეს შეცდომას გამოიწვევს, იქიდან გამომდინარე რომ Pi const ქივორდით შეიქმნა, ანუ მისი შეცვლა შეუძლებელია.
 ```
 
 `var` ქივორდს არ გააჩნია რაიმე სახის შეზღუდვა და მხოლოდ ის იძლევა თავისუფალი, სტანდარტული ცვლადების შექმნის საშუალებას. ასე შექმნილი ცვლადი ფუნქციის დონეზეა ხელმისაწვდომი:
 
-```text
+```javascript
 // myVarVariable ხელმისაწვდომია
 
 for (var myVarVariable = 0; myVarVariable < 5; myVarVariable++){
